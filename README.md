@@ -1,6 +1,6 @@
 # Erin Liebe's GitHub Assignment Index
 
-[Blumenstock 8/25 response] (blumenstock.md)
+[8.25 Humbler Data Science Reflection] (blumenstock.md)
 
 
 
