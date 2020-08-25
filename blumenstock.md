@@ -1,4 +1,4 @@
-# August 25 Response Data Science Blumenstock Article
+# 8.25 Humbler Data Science Reflection
 Erin Liebe
 Professor Tyler Frazier
 Evolving Solutions- DATA 150
