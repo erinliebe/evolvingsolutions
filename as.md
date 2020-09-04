@@ -1,3 +1,9 @@
+Erin Liebe
+Professor Tyler Frazier
+Evolving Solutions- DATA 150
+2 September 2020
+
+Introduction to "Development as Freedom" Questions
 Western world vs. Third World preconceived ideas about global development and health:
 Hans Rosling proposed that society has an oversimplified perspective of third world countries. He believes that we often collapse entire regions and even continents into having all of the same struggles and being equally underdeveloped in different aspects, rather than recognizing their distinctions. People often assume that the western world is superior in all areas, rather than considering that even third world countries can have their strong suits. For example, we might immediately assume that life expectancy in the United States is higher than any African country, whereas in reality, Algeria’s life expectancy is almost equal to that of the United States.
 Which comes first? Wealth or health? Are these important to development because of the money?
