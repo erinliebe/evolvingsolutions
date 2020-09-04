@@ -3,7 +3,10 @@ Professor Tyler Frazier
 Evolving Solutions- DATA 150
 2 September 2020
 
+
+
 Introduction to "Development as Freedom" Questions
+
 
 
 Western world vs. Third World preconceived ideas about global development and health:
