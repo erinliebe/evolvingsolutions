@@ -1,4 +1,5 @@
-# Aurora Project Podcast
+# AuRoR
+a Project Podcast
 
 Erin Liebe
 Professor Tyler Frazier
