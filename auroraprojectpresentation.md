@@ -1,5 +1,4 @@
-# AuRoRa
-a Project Podcast
+# AuRoRa Project Podcast Presentation
 
 Erin Liebe
 Professor Tyler Frazier
