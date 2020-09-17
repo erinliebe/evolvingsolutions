@@ -1,4 +1,4 @@
-# AuRoR
+# AuRoRa
 a Project Podcast
 
 Erin Liebe
