@@ -2,7 +2,7 @@ Annotated Bibliography
 
 Word Count: 2405 words
 
-
+<br />
 
 1. (December 7, 2020). Children with disabilities. Theirworld. Retrieved September 07, 2020 from https://theirworld.org/explainers/children-with-disabilities
 
@@ -22,7 +22,7 @@ Open University collected data on neurodiverse students by having all students t
 
 Amartya Sen argues that development is an expansion of freedom, to include the freedom to learn and be educated. To allow these disabled students to learn without experiencing difficulties is to better develop a schooling system. This is a social change to be more inclusive, rather than the physical changes in schools that are required of the developing countries in order to develop their educational systems. E-learning could be more inclusive by merely asking disabled students about their struggles and adjusting. This is a relatively low budget fix and has an almost immediate solution, rather than the costly and time consuming construction that developing countries would endure to be more accommodating to disabled students. 
 
-
+<br />
 
 3. Editorial Projects in Education. (2019, December 17). Special Education: Definition, Statistics, and Trends. Education Week. Retrieved September 07, 2020 from http://www.edweek.org/ew/issues/special-populations/
 
@@ -32,7 +32,7 @@ As it stands today in the United States, which has one of the most impressive sp
 
 Over the past few years there has also been an increase in the student to teacher ratio in the special education community. It has even exceeded the general education student to teacher ratio. This data can be somewhat explained by the dramatic increase of disabled children over the past few years. The disabilities that are becoming more common tend to be behavioral, such as Autism, rather than Dyslexia, a learning disability, which has declined over the past few years. This is a structural change that the article is proposing, to rewire the special education system to prioritize inclusion rather than prioritizing accommodations. The data used in the article was collected from the Individuals with Disabilities Education Act which requires states to provide annual data to Congress about their school’s special education programs. While this article mainly highlighted the flaws of American special education systems, that data used to support the statistics was easily accessible to them due to the government’s legislation. It focuses primarily on the current state of special education in the United States rather than seeking strategies for future improvement. While this source did not extend beyond stating statistics, it is important because it contextualizes the special education inclusion crisis in a developed country and shows the unmatched amount of data that the United States has on its special education population.
 
-
+<br />
 
 4. Koplewicz, S. (2020, May 27). I Would Like to Go to School. Human Rights Watch, 1. Retrieved September 08, 2020 from https://www.hrw.org/report/2018/03/22/i-would-go-school/barriers-education-children-disabilities-lebanon
 
@@ -48,7 +48,7 @@ Human Rights Watch is trying to include political figures and government organiz
 	
 This article takes a distinctive approach on explaining the inequalities in education. Rather than posing the freedom to learn as a basic freedom, they emphasize the exclusion of disabled students as an unfreedom. This is the only source that approaches the crisis from this point of view. This relates to Amartya Sen’s suggestion to remove the unfreedoms of a society in order to let the people access their freedoms. In this case, removing the exclusive characteristics of public school in Lebanon will give disabled children the freedom to learn, eventually participate in the economy, and live well rather than live to merely survive.
 
-
+<br />
 
 5. (2020, May 27). Students With Disabilities. National Center for Education Statistics. Retrieved September 09, 2020 from https://nces.ed.gov/programs/coe/indicator_cgg.asp
 
