@@ -12,7 +12,7 @@ The author proposes that countries implement policies that introduce inclusivity
 
 Theirworld employs data from stratified samples by country to compare the amount of disabled students attending school among developing countries. Using this data, the author investigates education and the freedom to learn especially in developing countries. The goal is to first bring awareness to the lack of educational opportunities for children with disabilities and put pressure on countries to implement policies that hold their educational systems to a higher standard. Beyond implementing policies and receiving help from non-profits, Theirworld is still researching how to most effectively improve schools in developing countries and abide by the policy standards. Giving neurodiverse students access to an education is necessary to enable their individual freedoms, beginning with their freedom to learn, which thus gives them the freedom to socially interact with peers and to be properly educated and prepared to enter the workforce.
 
-
+<br />
 
 2. Cooper, M., Ferguson, R., & Wolff, A. (2016, April 25). What Can Analytics Contribute to Accessibility in e-Learning Systems and to Disabled Students' Learning? Centre for Research in Education and Educational Technology, 99-103. Retrieved September 08, 2020 from http://oro.open.ac.uk/45313/
 
