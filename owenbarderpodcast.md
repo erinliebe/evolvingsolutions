@@ -11,4 +11,14 @@
 
 6. The Washington Consensus suggested ten reforms that should be prioritized in government policy especially in developing countries. These reforms were suggested so that they may replace the bad government policies that many economists blamed for poor economic performance in developing countries. Some of the reforms were successful, such as the improvement in Sub-Saharan public deficits and exchange rates, however, it is largely deemed a failure.
 
-7. 
+7. The Ajaokuta Steel Works in Nigeria is a huge American and Nigerian investment that has not produced any steel at all. Poor management and endemic corruption are to blame for the lack of economic growth inspired by this large investment. The failure of Washington Consensus caused the shift from implementing government policies to implementing institutions. This investment in Nigeria was a failure though, because society has yet to agree on what investments are important for growth in developing countries.
+
+8. Haile Selassie was the last emperor of the Ethiopian feudal dynasty. Kapuściński depicts the ruling of Selasssie as an effort to gain power and ensure the preservatiton of power by suppressing movements towards political and social institutions. I agree with Barder that the powerful elite, tempted by corruption, can determine the well-being of the majority due to selflessness and greed.
+
+9. Steve Jones is an evolutionary biologist who was hired to design a better nozzle for soap powder making. He used trial and error in a way that mimics evolution, allowing non-linear solutions to reveal themselves. He was successful and is an example of how inefficient solutions can be if society does not initially recognize the complexity of the problem.
+
+10. Schumpeter’s creative destruction is the idea that society has an incessant need to replace traditional methods and evolve, particularly in capitalist nations. The firms have to be able to adapt to the changing economy in order to financially succeed, rather than produce for creativity.
+
+11. Barder recommends resisting engineering because it is hard to contrive solutions in a complex adaptive system. He suggests that instead of replacing evolutionary processes, we should try to better understand and harness them. Isomorphic mimicry is the concept that an institution can have all of the resources and planes to create successful growth in a developing country and that is enough to inspire investment, even if they do not ultimately deliver the results they boasted about.
+
+12. Resist fatalism means that we should not accept this feeling that we are helpless and incapable of influencing the world around us. We can accelerate and shape evolution. Norman Borlaug inspired the Green Revolution by influencing the process of evolution in his wheat through crossbreeding. The Green Revolution is an improvement in agriculture in developing countries due to their interaction with the evolutionary processes of their crops.
