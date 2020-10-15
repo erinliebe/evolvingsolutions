@@ -11,3 +11,4 @@ My name is Erin Liebe and I am a sophomore from Stafford, Virginia. I transferre
 [aurora project podcast presentation link](auroraprojectpresentation.md)
 [annotated bibliogrraphy link](annotatedbibliography.md)
 [anderson and kitchin arguments link](andersonandkitchenarguments.md)
+[criminology and data science](criminologyanddatascienceinsight.md)
