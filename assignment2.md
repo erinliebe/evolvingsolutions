@@ -1,5 +1,6 @@
 Assignment #2: 
 Employing Machine Learning to combat the Special Education student-teacher ratio as well as the lack of data on the disabled population in Southeast Asia
+
 Word Count: 2020
 
  Special education is seen as a luxury in developing countries. Many countries struggle to provide equal education among genders, so educating the mentally and physically disabled is often pushed aside for gender equality. Another prominent struggle in the disabled population, that both developed and developing countries experience, is the lack of data quantifying the population itself. It is nearly impossible to spark political and local momentum to remove unfreedoms in education if governments and the public do not know the amount of people that are actually affected by them. The disabled population in developing countries are not only underrepresented in data, but they are also innately ostracized in communities, without teachers, thus, uneducated, and unemployed. Disabled people in Southeast Asia are especially vulnerable due to the main industries in the region and their incompatibility with the skills of the disabled. 
@@ -34,10 +35,17 @@ While the lack of population data is an obvious gap in the literature that needs
 
 
 Bibliography
+
 Baker-Munton, C., Haffner, A., Cogan, M. S., Quadrini, M., & Redmond, C. (2019, July 1). Special educational needs: Invisible children. https://southeastasiaglobe.com/special-educational-needs-cambodias-invisible-children/. 
+
 Disability at a Glance. (2015). Disability at a Glance 2015: STRENGTHENING EMPLOYMENT PROSPECTS FOR PERSONS WITH DISABILITIES IN ASIA AND THE PACIFIC, 14–19. https://doi.org/10.18356/0c1ea1f5-en https://www.unescap.org/sites/default/files/SDD%20Disability%20Glance%202015_Final.pdf.
+
 Disability in the South­East Asia Region, 2013. (2013). http://origin.searo.who.int/entity/disabilities_injury_rehabilitation/topics/disabilityinsear2013.pdf.
+
 Leinbach, T. R., & Frederick, W. H. (2018, July 13). South East Asia- Industry. https://www.britannica.com/place/Southeast-Asia/Industry. 
+
 Lengnick-Hall, M., Gaunt, P., & Brooks, A. Why Employers Don't Hire People With Disabilities: A Survey of the Literature. https://www.cprf.org/studies/why-employers-dont-hire-people-with-disabilities-a-survey-of-the-literature/. 
+
 Persons with a Disability: Labor Force Characteristics News Release. (2020, February 26). https://www.bls.gov/news.release/pdf/disabl.pdf.
+
 Phillips, K., Houtenville, A., Nzamubona, K., O’Neill, J., & Katz, E. (2020, June 3). 2020 Survey: Executive Summary. https://kesslerfoundation.org/researchcenter-employment-and-disability-researchemployment-and-disability-survey-2020/2020-survey.
