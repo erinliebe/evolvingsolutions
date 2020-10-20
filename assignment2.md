@@ -1,5 +1,5 @@
 Assignment #2: 
-Employing census data to introduce the complexity of unemployment and statistical underrepresentation for the disabled population in Southeast Asia
+Employing machine learning to introduce the complexity of unemployment and statistical underrepresentation for the disabled population in Southeast Asia
 
 Word Count: 2064
 
