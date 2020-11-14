@@ -15,3 +15,4 @@ My name is Erin Liebe and I am a sophomore from Stafford, Virginia. I transferre
 [owen barder podcast](owenbarderpodcast.md)
 [central research question](centralresearchquestion.md)
 [in class essay](inclassessay.md)
+[assignment 3](assignment3.md)
