@@ -19,6 +19,7 @@ In order to combat this issue, it is necessary to have current, clean data that 
 
 The Economic and Social Commission for Asia and the Pacific Disability survey has been extremely successful in collecting this data by country, shown in the figures below (UNESCAP). 
 
+
 This data is useful for an educated estimation of the population in 2020 as it is both spatial and temporal, but unique factors such as the COVID-19 pandemic, new inclusivity legislation, and tax credits likely caused population changes since 2015. The survey was conducted again in 2019, but there was no longer a focus on employment (UNESCAP). Collecting this data more frequently could reveal how vulnerable the disabled are to fluctuations in the national economies and political changes.
 
 Geospatial Data Science Method 2:
@@ -33,7 +34,7 @@ However, the internet does not discriminate in the way that agriculture does. Di
 
 This is an easy way to collect geospatial data on the disabled labor force: those with disabilities who are seeking employment, whether they are employed or unemployed. The app can take note of their location in case there are any in-person nearby job opportunities. This will also save time for disabled people who currently have to spend lots of time searching for the rare jobs in Southeast Asia that are willing to hire someone with a disability, deciphering if they have the appropriate skill set, let alone if it is close enough to commit to working there. Flexport is a company that uses Entelo, and one of its employees advocates for Entelo "because of how manual and tedious [sourcing] can be,” but this artificial intelligence technology catalyzes the process with minimal effort.
 
-Giving job experience to a previously unemployed and inexperienced section of the population allows them to improve the strengths that make them employable. While reducing inequalities is inherently good in itself, the potential spike in GDP due to the increase in employment is an economic incentive for local companies to engage in the inclusivity. Firms from all over the world could use the application to get in touch with disabled workers to employ in order to gain tax credit. This integration of a machine learning application to the dis`abled labor force will contribute to human development in Southeast Asia by working towards reduced inequalities and economic growth.
+Giving job experience to a previously unemployed and inexperienced section of the population allows them to improve the strengths that make them employable. While reducing inequalities is inherently good in itself, the potential spike in GDP due to the increase in employment is an economic incentive for local companies to engage in the inclusivity. Firms from all over the world could use the application to get in touch with disabled workers to employ in order to gain tax credit. This integration of a machine learning application to the disabled labor force will contribute to human development in Southeast Asia by working towards reduced inequalities and economic growth.
 
 
 
