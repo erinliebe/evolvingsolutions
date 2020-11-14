@@ -21,7 +21,7 @@ In order to combat this issue, it is necessary to have current, clean data that 
 
 The Economic and Social Commission for Asia and the Pacific Disability survey has been extremely successful in collecting this data by country, shown in the figures below (UNESCAP). 
 
-![IMG-7520](https://user-images.githubusercontent.com/68658300/99139736-59e9fc80-2609-11eb-8d2d-986658662a83.jpg)
+![IMG-7519](https://user-images.githubusercontent.com/68658300/99139750-74bc7100-2609-11eb-9626-89113e5bf1be.jpg)
 
 This data is useful for an educated estimation of the population in 2020 as it is both spatial and temporal, but unique factors such as the COVID-19 pandemic, new inclusivity legislation, and tax credits likely caused population changes since 2015. The survey was conducted again in 2019, but there was no longer a focus on employment (UNESCAP). Collecting this data more frequently could reveal how vulnerable the disabled are to fluctuations in the national economies and political changes.
 
