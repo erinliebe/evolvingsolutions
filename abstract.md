@@ -1,7 +1,9 @@
 Erin Liebe
 
 Employing Machine Learning to connect disabled people in Southeast Asia with international employment opportunities
+
 November 19th, 2020
+
 
 My research is an explanatory piece that explores the correlative relationship between barriers to education and employment opportunities for disabled people in Southeast Asia. People with disabilities are especially vulnerable in this area due to the prominence of gender inequality in education, lack of special education teachers, physical accessibility barriers to attending school, gap in the disabled population data, and economy being dominated by primary sector industries. I will explain how each of these unfreedoms strengthen each other, marginalizing the disabled population even more thhan their natural disabilities do. All of these inequalities lead to a paucity of job opportunities for disabled people in Southeast Asia. More than 90% of children with disabilities in this region have never attended school, keeping them from progressing academically and developing the skills that would make them employable (Sida). Furthermore, people with disabilities are typically great candidates for jobs in retail, customer service, and administrative support roles, however, these jobs fall into the tertiary sector of the economy, and Southeast Asia is dominated by agriculture, which is part of the primary sector of the economy. The agriculture industry is physically demanding, making it an innately discriminatory job sector to disaabled people.
 
