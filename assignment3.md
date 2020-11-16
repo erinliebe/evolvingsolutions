@@ -33,6 +33,8 @@ Secondly, it would be beneficial to create an artificial intelligence applicatio
 
 Conversely, in the new app, the user could input if they are seeking for a job to stay at for a while, or if they are looking for a short-term experience. The jobs that are suggested for them would take the turnover rate into consideration according to the user’s preferences.
 
+![flightytitles](https://user-images.githubusercontent.com/68658300/99206817-529e2c80-278a-11eb-8585-4942db068865.png)
+
 ![3plusflightytitles](https://user-images.githubusercontent.com/68658300/99206844-63e73900-278a-11eb-8bad-1f02b8f15e4c.png)
 
 The user would also input their unique skills as well as their weaknesses, and be provided with a list of job opportunities that will utilize their strengths and tolerate their weaknesses. The leading industry in Southeast Asia, agriculture, is inherently discriminatory to the disabled. They are often lacking the physical capacity to participate in this industry,  and are therefore excluded.
