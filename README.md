@@ -14,5 +14,6 @@ My name is Erin Liebe and I am a sophomore from Stafford, Virginia. I transferre
 [criminology and data science](criminologyanddatascienceinsight.md)
 [owen barder podcast](owenbarderpodcast.md)
 [central research question](centralresearchquestion.md)
+[assignment 2](assignment2.md)
 [in class essay](inclassessay.md)
 [assignment 3](assignment3.md)
