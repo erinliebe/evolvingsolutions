@@ -17,3 +17,4 @@ My name is Erin Liebe and I am a sophomore from Stafford, Virginia. I transferre
 [assignment 2](assignment2.md)
 [in class essay](inclassessay.md)
 [assignment 3](assignment3.md)
+[abstract](abstract.md)
